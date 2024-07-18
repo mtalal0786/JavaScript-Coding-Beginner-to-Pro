@@ -68,3 +68,7 @@ console.log(Math.random()*10); // 1 to 9 . 10 is not included
 console.log((Math.random()*100)+1); //1 to 100 include random number
 
 
+//*********************************** References for Study ********************************
+
+// Youtube => https://www.youtube.com/watch?v=_KqpeDc47Ro&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=13
+// W3School => https://www.w3schools.com/jsref/jsref_obj_number.asp

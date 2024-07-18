@@ -67,3 +67,9 @@ userTwo.name = "M Talal" // changing in the value of userTwo also change value o
 
 console.log(userOne); 
 console.log(userTwo);  
+
+
+//*********************************** References for Study ********************************
+
+// Youtube => https://youtube.com/watch?v=suMvZWjjKbo&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=10
+// W3School => https://www.w3schools.com/js/js_datatypes.asp

@@ -20,3 +20,12 @@ console.log(accountId);
 
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+
+
+//*********************************** References for Study ********************************
+
+// Youtube => https://www.youtube.com/watch?v=-9knnv97wSc&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=6
+// W3School => //*********************************** References for Study ********************************
+
+// Youtube => https://www.youtube.com/watch?v=yY0bKZNYmJs&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=5
+// W3School => https://www.w3schools.com/js/js_variables.asp

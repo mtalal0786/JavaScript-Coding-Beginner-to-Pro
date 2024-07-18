@@ -55,3 +55,10 @@ gameCounter++;
 console.log(gameCounter); //There is Prefix And Postfix are two type of Increment and Decrement Operators.
 // Prefix performed before execution like ++gameCounter.
 //Postfix performed after execution like gameCounter++.
+
+
+//*********************************** References for Study ********************************
+
+// Youtube => https://www.youtube.com/watch?v=giP2uXMlv4c&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=9
+// W3School => https://www.w3schools.com/js/js_typeof.asp
+// W3School => https://www.w3schools.com/js/js_type_conversion.asp

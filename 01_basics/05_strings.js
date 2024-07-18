@@ -45,3 +45,8 @@ console.log(gameName2.valueOf()); // Default for Displaying Strings.Not Used in 
 
 // Some Prototype functions of Strings. like .length , .toLowerCase , .Indexof etc.
 //These are given in console of browser. lets try some of them.
+
+//*********************************** References for Study ********************************
+
+// Youtube => https://www.youtube.com/watch?v=N9el4APFtAo&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=8
+// W3School => https://www.w3schools.com/jsref/jsref_obj_string.asp

@@ -24,3 +24,10 @@
 
 console.log(2===2);
 console.log("2"===2);
+
+
+//*********************************** References for Study ********************************
+
+// Youtube => https://www.youtube.com/watch?v=giP2uXMlv4c&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=9
+// W3School => https://www.w3schools.com/jsref/jsref_operators.asp
+// W3School => https://www.w3schools.com/js/js_comparisons.asp

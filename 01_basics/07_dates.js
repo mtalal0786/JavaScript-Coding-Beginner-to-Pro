@@ -23,11 +23,11 @@ console.log(myDate.getUTCSeconds()); // Get UTC Seconds (0 to 59)
 console.log(Date.now()); // Give MiliSeconds from 1, 1970. Only Used With Date.
 console.log(myDate.setDate()); // Give Day of Month
 console.log(myDate.setMilliseconds()); // Give Day of Month
-console.log(myDate.setSeconds()); // Get UTC Seconds (0 to 59)
-console.log(myDate.setMinutes()); // Get UTC Seconds (0 to 59)
-console.log(myDate.setHours()); // Get UTC Seconds (0 to 59)
-console.log(myDate.setMonth()); // Get UTC Seconds (0 to 59)
-console.log(myDate.setTime()); // Get UTC Seconds (0 to 59)
+console.log(myDate.setSeconds()); // 
+console.log(myDate.setMinutes()); // 
+console.log(myDate.setHours()); // 
+console.log(myDate.setMonth()); // 
+console.log(myDate.setTime()); // 
 console.log(myDate.setFullYear()); // Get UTC Full Year (0 to 59)
 console.log(myDate.setUTCDate()); // Get UTC Day of Month (0 to 59)
 console.log(myDate.setUTCMilliseconds()); // Get UTC Milli Seconds (0 to 59)
@@ -37,19 +37,19 @@ console.log(myDate.setUTCHours()); // Get UTC Hours (0 to 59)
 console.log(myDate.setUTCMonth()); // Get UTC Month 
 console.log(myDate.setUTCFullYear()); // Get UTC Full Year 
 console.log(myDate.toDateString()); // Get Get Date as a Readable Date String
-console.log(myDate.toISOString()); // Get UTC Seconds (0 to 59)
-console.log(myDate.toJSON()); // Get UTC Seconds (0 to 59)
-console.log(myDate.toLocaleDateString()); // Get UTC Seconds (0 to 59)
-console.log(myDate.toLocaleTimeString()); // Get UTC Seconds (0 to 59)
+console.log(myDate.toISOString()); // 
+console.log(myDate.toJSON()); // 
+console.log(myDate.toLocaleDateString()); // 
+console.log(myDate.toLocaleTimeString()); // 
 console.log(myDate.toLocaleString("hi-IN",{
     dateStyle:"full",timeStyle:"short",hour12:true,hourCycle:"h12",weekday:"long",year:"numeric",
     month:"long",day:"2-digit",hour:"numeric",second:"2-digit",timeZoneName:"long"
 })); 
-console.log(myDate.toString()); // Get UTC Seconds (0 to 59)
+console.log(myDate.toString()); // Give Date As String
 console.log(myDate.toTimeString()); // Get UTC Time Portion of Date String.
 console.log(myDate.toUTCString()); // Get UTC Date Object as a String.
 console.log(Date.UTC()); // Get Milli Seconds of date from 1970 to given date.
-console.log(myDate.valueOf()); // Get UTC Seconds (0 to 59)
+console.log(myDate.valueOf()); // Get value of the Date Object
 
 
 //*********************************** References for Study ********************************
